@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "Name": "Hemant",
+      "Address": "Suart",
+      "Mobile": "9106330420",
+      "Email": "hemant@gmail.com"
+    },
+    {
+      "id": 2,
+      "Name": "Harshal",
+      "Address": "Suart",
+      "Mobile": "9081181066",
+      "Email": "harshal@gmail.com"
+    },
+    {
+      "id": 3,
+      "Name": "Ajay",
+      "Address": "Suart",
+      "Mobile": "9988774455",
+      "Email": "ajay@gmail.com"
+    },
+    {
+      "id": 4,
+      "Name": "Nihal",
+      "Address": "Suart",
+      "Mobile": "8855223311",
+      "Email": "nihal@gmail.com"
+    },
+    {
+      "id": 5,
+      "Name": "Ram",
+      "Address": "Suart",
+      "Mobile": "7069989488",
+      "Email": "ram@gmail.com"
+    },
+    {
+      "id": 6,
+      "Name": "Ketan",
+      "Address": "Suart",
+      "Mobile": "8866442255",
+      "Email": "ketu@gmail.com"
+    }
+  ]
